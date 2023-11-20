@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\boot-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\boot-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\boot-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\boot-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\boot-redis1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\glove-code1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\glove-code2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\glove-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\glove-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\hat-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\hat-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\hat-react2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\sb-ang1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\sb-ang2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\sb-core1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\Products\\sb-core2.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\sb-react1.png"
+    },
+    {
+      "Id": "C:\\Users\\dell\\source\\repos\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\Products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\Products\\sb-ts1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Talabat.APIs.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Talabat.APIs.props",
+      "PackagePath": "build\\Talabat.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Talabat.APIs.props",
+      "PackagePath": "buildMultiTargeting\\Talabat.APIs.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Talabat.APIs.props",
+      "PackagePath": "buildTransitive\\Talabat.APIs.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
