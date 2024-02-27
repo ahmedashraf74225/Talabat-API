@@ -449,17 +449,4 @@ Talabat returns the following status codes in its API:
 
 </details>
 
- <h2 align='center'>⭐ Authors ⭐ </h2>
-<!-- readme: collaborators -start -->
-<table align='center'> 
-<tr>
-    <td align="center">
-        <a href="https://github.com/yousefosama654">
-            <img src="https://avatars.githubusercontent.com/u/93356614?v=4" width="100;" alt="yousefosama654"/>
-            <br />
-            <sub><b>Yousef</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: collaborators -end -->
 <h2 align='center'>Thank You. 💖 </h2>
